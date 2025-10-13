@@ -1,0 +1,22 @@
+# JMeter generated files
+*.jtl
+*.log
+jmeter-scripts/*.log
+jmeter-scripts/*.jtl
+
+# Test Results (usually large and can be regenerated)
+/test-results/raw-jtl-files/
+/test-results/html-dashboards/
+
+# VS Code
+.vscode/
+
+# Java (if you were building Java projects, good to have)
+*.class
+*.jar
+target/
+build/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
