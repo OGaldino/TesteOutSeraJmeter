@@ -5,8 +5,7 @@ jmeter-scripts/*.log
 jmeter-scripts/*.jtl
 
 # Test Results (usually large and can be regenerated)
-/test-results/raw-jtl-files/
-/test-results/html-dashboards/
+
 
 # VS Code
 .vscode/
